@@ -50,6 +50,7 @@ font-weight: 600;
     background-image: url(./images/7.png);
    background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 .about_left{
     margin: 100px 50px 0;
