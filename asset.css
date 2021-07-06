@@ -47,7 +47,7 @@ font-weight: 600;
 }
 .about{
     display: flex;
-    background-image: url(../images/7.png);
+    background-image: url(./images/7.png);
    background-repeat: no-repeat;
     background-size: cover;
 }
